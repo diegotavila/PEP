@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.31)  21 OCT 2016 13:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.31)  24 OCT 2016 15:29
 entering extended mode
 **"./PEP Diego.tex"
 ("PEP Diego.tex"
@@ -424,18 +424,18 @@ Package babel Info: Making " an active character on input line 145.
 ("PEP Diego.aux")
 \openout1 = `"PEP Diego.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -495,149 +495,56 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-Overfull \hbox (35.85225pt too wide) in paragraph at lines 19--19
+Overfull \hbox (35.85225pt too wide) in paragraph at lines 20--20
  [] 
  []
 
 
-Overfull \hbox (8.41502pt too wide) in paragraph at lines 23--24
+Overfull \hbox (8.41502pt too wide) in paragraph at lines 24--25
  [][] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 47.
+(Font)              <12> on input line 48.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 47.
+(Font)              <8> on input line 48.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 47.
+(Font)              <6> on input line 48.
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [1]
-Overfull \hbox (5.71817pt too wide) in paragraph at lines 71--72
+Overfull \hbox (5.71817pt too wide) in paragraph at lines 72--73
 []\OT1/cmr/m/n/12 - O re-la-ci-o-na-mento en-tre o mo-delo e a in-ter-pretac~a
 o
  []
 
-
-LaTeX Warning: Citation `Mendling2013' on page 2 undefined on input line 99.
-
 [2] [3]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 118.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 122.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 122.
  [4]
-[5] [6] [7] ("PEP Diego.bbl"
-Underfull \hbox (badness 10000) in paragraph at lines 10--14
-[]\OT1/cmr/m/n/12 Becker, J., Ro-se-mann, M., von Uth-mann, C., Uth-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--14
-\OT1/cmr/m/n/12 mann, C.V.: Gui-de-li-nes of Bu-si-ness Pro-cess Mo-de-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--14
-\OT1/cmr/m/n/12 ling. Bu-si-ness Pro-cess Ma-na-ge-ment 1806, 241--262 (2000),
- []
-
-
-Overfull \hbox (225.04883pt too wide) in paragraph at lines 10--14
-\OT1/cmtt/m/n/12 http://www.springerlink.com/content/drwfdxguupx7evxb/$\OMS/cms
-y/m/n/12 n$\OT1/cmtt/m/n/12 nhttp://dx.doi.org/10.1007/3-540-45594-9[]3 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--19
-[]\OT1/cmr/m/n/12 Correia, A., Abreu, F.B.e.: Ad-ding Pre-ci-se-ness to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--19
-\OT1/cmr/m/n/12 BPMN Mo-dels. Pro-ce-dia Te-ch-no-logy 5, 407--417 (2012),
- []
-
-
-Overfull \hbox (41.70273pt too wide) in paragraph at lines 16--19
-\OT1/cmtt/m/n/12 http://www.sciencedirect.com/science/article/pii/S221201731200
-4768 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
-[]\OT1/cmr/m/n/12 Krogstie, J.: Model-Based De-ve-lop-ment and Evo-lu-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
-\OT1/cmr/m/n/12 of In-for-ma-tion Sys-tems. Sprin-ger Lon-don, Lon-don (2012),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--38
-[]\OT1/cmr/m/n/12 Mendling, J.: Me-trics for Pro-cess Mo-dels. Me-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--38
-\OT1/cmr/m/n/12 trics for Pro-cess Mo-dels 6(0), 103--133 (2008),
- []
-
-
-Overfull \hbox (2.9237pt too wide) in paragraph at lines 35--38
-\OT1/cmtt/m/n/12 http://link.springer.com/chapter/10.1007/978-3-540-89224-3[]4 
-
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 40--44
-[]\OT1/cmr/m/n/12 Mendling, J., Neu-mann, G., Aalst, W.M.P.V.D.: On the Cor-
- []
-
-
-Underfull \hbox (badness 1681) in paragraph at lines 40--44
-\OT1/cmr/m/n/12 re-la-tion between Pro-cess Mo-del Me-trics and Er-rors. 26th i
-n-ter-
- []
-
-
-Underfull \hbox (badness 1383) in paragraph at lines 40--44
-\OT1/cmr/m/n/12 na-ti-o-nal con-fe-rence on Con-cep-tual mo-de-ling pp. 173--17
-8 (2007),
- []
-
-
-Overfull \hbox (115.80276pt too wide) in paragraph at lines 46--49
-\OT1/cmtt/m/n/12 http://www.amazon.com/BPMN-Method-Style-levels-based-methodolo
-gy/dp/0982368100 
- []
-
-[8]) [9] ("PEP Diego.aux")
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[5] [6] [7] [8] ("PEP Diego.bbl" [9]) [10] ("PEP Diego.aux") ) 
 Here is how much of TeX's memory you used:
  2499 strings out of 493334
- 32828 string characters out of 3136678
- 104827 words of memory out of 3000000
- 5990 multiletter control sequences out of 15000+200000
- 8757 words of font info for 31 fonts, out of 3000000 for 9000
+ 32839 string characters out of 3136678
+ 101832 words of memory out of 3000000
+ 5991 multiletter control sequences out of 15000+200000
+ 8588 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,10n,25p,781b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "PEP Diego.pdf" (10 pages, 98031 bytes).
+ 40i,10n,25p,806b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "PEP Diego.pdf" (11 pages, 94372 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 58 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
