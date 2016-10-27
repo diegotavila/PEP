@@ -34,10 +34,10 @@ Odd~Ivar Lindland, Guttorm Sindre, and Arne S{\o}lvberg.
 \newblock {Understanding Quality in Conceptual Modeling}.
 \newblock {\em IEEE Software}, 11(2):42--49, 1994.
 
-\bibitem{Mendling2008}
-J~Mendling.
-\newblock {Metrics for Process Models}.
-\newblock {\em Metrics for Process Models}, 6(0):103--133, 2008.
+\bibitem{Mendling2010a}
+J.~Mendling, H.~A. Reijers, and W.~M~P van~der Aalst.
+\newblock {Seven process modeling guidelines (7PMG)}.
+\newblock 52(2):127--136, 2010.
 
 \bibitem{Mendling2013}
 Jan Mendling.
